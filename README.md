@@ -5,3 +5,12 @@ The dataset for kaggle competition (both train and test) was generated from a de
 1. train.csv - the training dataset; Listening_Time_minutes is the target
 2. test.csv - the test dataset; your objective is to predict the Listening_Time_minutes for each row
 3. sample_submission.csv - a sample submission file in the correct format.
+
+## Citation
+@misc{playground-series-s5e4,
+    author = {Walter Reade and Elizabeth Park},
+    title = {Predict Podcast Listening Time},
+    year = {2025},
+    howpublished = {\url{https://kaggle.com/competitions/playground-series-s5e4}},
+    note = {Kaggle}
+}
